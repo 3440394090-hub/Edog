@@ -1,0 +1,9 @@
+{
+  "type": "deske-dog",
+  "target": "esp32s3",
+  "builds": [
+    {
+      "name": "deske-dog"
+    }
+  ]
+}
